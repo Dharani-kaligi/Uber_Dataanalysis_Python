@@ -38,5 +38,7 @@ The objective of this project is to perform an exploratory data analysis (EDA) o
 Open the relevant notebook file (e.g., uber_data_analysis.ipynb) and run the cells to perform the data analysis.
 
 ## Author
+
 Your Name: Dharani Kaligi
+
 This updated README.md provides a clear description of the Uber Data Analysis project, its objectives, and how to set up and contribute. The project workflow includes extracting weekdays, performing analysis, and visualizing patterns in Uber ride data.
