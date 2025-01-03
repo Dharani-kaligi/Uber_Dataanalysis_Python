@@ -39,6 +39,9 @@ Open the relevant notebook file (e.g., uber_data_analysis.ipynb) and run the cel
 
 ## Author
 
-Your Name: Dharani Kaligi
+-**Your Name**: Dharani Kaligi
+- **Email**: dharanikaligi0638@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/dharani-kaligi-6b2338279/
+
 
 This updated README.md provides a clear description of the Uber Data Analysis project, its objectives, and how to set up and contribute. The project workflow includes extracting weekdays, performing analysis, and visualizing patterns in Uber ride data.
