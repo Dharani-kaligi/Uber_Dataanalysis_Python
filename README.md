@@ -18,9 +18,13 @@ The objective of this project is to perform an exploratory data analysis (EDA) o
 
 # Technologies Used
 -**Python 3:** Core programming language for data analysis.
+
 -**Pandas:** Library used for data manipulation and extraction of weekdays.
+
 -**Datetime:** Used to extract and manipulate date and time information.
+
 -**Matplotlib / Seaborn:** Libraries for visualizing data.
+
 -**Jupyter Notebook:** Environment for interactive analysis and visualization.
 
 # Installation
