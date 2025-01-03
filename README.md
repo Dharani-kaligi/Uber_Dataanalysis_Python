@@ -39,7 +39,7 @@ Open the relevant notebook file (e.g., uber_data_analysis.ipynb) and run the cel
 
 ## Author
 
--**Your Name**: Dharani Kaligi
+- **Your Name**: Dharani Kaligi
 - **Email**: dharanikaligi0638@gmail.com
 - **LinkedIn**: https://www.linkedin.com/in/dharani-kaligi-6b2338279/
 
