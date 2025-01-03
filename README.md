@@ -25,9 +25,9 @@ The objective of this project is to perform an exploratory data analysis (EDA) o
 
 # Installation
 
--**Clone the Repository:** Clone the repository using Git and Navigate the project directory.
--**Install Dependencies:** Install Required Python packages.
--**Run the Analysis:** Once the dependencies are installed, you can run the analysis in Jupyter Notebook. Open Jupyter Notebook and launch the notebook
+**Clone the Repository:** Clone the repository using Git and Navigate the project directory.
+**Install Dependencies:** Install Required Python packages.
+**Run the Analysis:** Once the dependencies are installed, you can run the analysis in Jupyter Notebook. Open Jupyter Notebook and launch the notebook
 
 Open the relevant notebook file (e.g., uber_data_analysis.ipynb) and run the cells to perform the data analysis.
 
