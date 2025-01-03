@@ -17,23 +17,23 @@ The objective of this project is to perform an exploratory data analysis (EDA) o
 - Correlation between day of the week and ride characteristics (if data is available).
 
 # Technologies Used
-**Python 3:** Core programming language for data analysis.
+- **Python 3**: Core programming language for data analysis.
 
-**Pandas:** Library used for data manipulation and extraction of weekdays.
+- **Pandas**: Library used for data manipulation and extraction of weekdays.
 
-**Datetime:** Used to extract and manipulate date and time information.
+- **Datetime**: Used to extract and manipulate date and time information.
 
-**Matplotlib / Seaborn:** Libraries for visualizing data.
+- **Matplotlib / Seaborn**: Libraries for visualizing data.
 
-**Jupyter Notebook:** Environment for interactive analysis and visualization.
+- **Jupyter Notebook**: Environment for interactive analysis and visualization.
 
 # Installation
 
-**Clone the Repository:** Clone the repository using Git and Navigate the project directory.
+- **Clone the Repository**: Clone the repository using Git and Navigate the project directory.
 
-**Install Dependencies:** Install Required Python packages.
+- **Install Dependencies**: Install Required Python packages.
 
-**Run the Analysis:** Once the dependencies are installed, you can run the analysis in Jupyter Notebook. Open Jupyter Notebook and launch the notebook
+- **Run the Analysis**: Once the dependencies are installed, you can run the analysis in Jupyter Notebook. Open Jupyter Notebook and launch the notebook
 
 Open the relevant notebook file (e.g., uber_data_analysis.ipynb) and run the cells to perform the data analysis.
 
