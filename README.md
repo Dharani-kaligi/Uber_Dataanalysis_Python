@@ -23,22 +23,16 @@ The objective of this project is to perform an exploratory data analysis (EDA) o
 -**Matplotlib / Seaborn:** Libraries for visualizing data.
 -**Jupyter Notebook:** Environment for interactive analysis and visualization.
 
-# Installation & Setup
-## Clone the Repository
-## Clone the repository using Git:
+## **Installation & Setup**
 
-bash
-Copy code
+### **Clone the Repository**
+Clone the repository using Git:
+
+```bash
 git clone https://github.com/your-username/uber-data-analysis.git
-Navigate to the project directory:
 
-bash
-Copy code
-cd uber-data-analysis
-Install Dependencies
-Install the required Python packages:
 
-bash
+
 Copy code
 pip install pandas numpy matplotlib seaborn
 Run the Analysis
